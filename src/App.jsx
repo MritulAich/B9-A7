@@ -9,7 +9,7 @@ function App() {
   return (
     <>
       <h1 className='text-5xl'>Recipe Factory</h1>
-
+         <div className="">Navbar, header</div>
     </>
   )
 }
