@@ -1,0 +1,94 @@
+[
+    {
+      "recipe_id": 1,
+      "recipe_name": "Chicken Stir Fry",
+      "recipe_image": "https://images.unsplash.com/photo-1610057099443-fde8c4d50f91?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fENoaWNrZW4lMjBGcnl8ZW58MHx8MHx8fDA%3D",
+      "short_description": "A delicious and easy-to-make chicken stir fry with vegetables.",
+      "ingredients": [
+        "550 g chicken breast, sliced",
+        "120 ml soy sauce",
+        "200 g basil leaves",
+        "400 g mushrooms, sliced"
+      ],
+      "preparing_time": "30 minutes",
+      "calories": "320 calories"
+    },
+    {
+      "recipe_id": 2,
+      "recipe_name": "Vegetable Curry",
+      "recipe_image": "https://images.unsplash.com/photo-1444228425018-ff8535a55c93?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "short_description": "A flavorful and nutritious vegetable curry with spices and coconut milk.",
+      "ingredients": [
+        "2 cups mixed vegetables (carrots, potatoes, peas)",
+        "1 can (400 ml) coconut milk",
+        "1 onion, chopped",
+        "2 cloves garlic, minced",
+        "1 tsp curry powder"
+      ],
+      "preparing_time": "45 minutes",
+      "calories": "250 calories"
+    },
+    {
+      "recipe_id": 3,
+      "recipe_name": "Pasta Primavera",
+      "recipe_image": "https://images.unsplash.com/photo-1621996346565-e3dbc646d9a9?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8cGFzdGF8ZW58MHx8MHx8fDA%3D",
+      "short_description": "A vibrant and fresh pasta dish loaded with seasonal vegetables.",
+      "ingredients": [
+        "300 g pasta (spaghetti or fettuccine)",
+        "2 cups assorted vegetables (bell peppers, zucchini, cherry tomatoes)",
+        "1/4 cup olive oil",
+        "2 cloves garlic, minced",
+        "1/2 cup grated Parmesan cheese"
+      ],
+      "preparing_time": "25 minutes",
+      "calories": "350 calories"
+    },
+    {
+      "recipe_id": 4,
+      "recipe_name": "Salsa Chicken",
+      "recipe_image": "https://images.unsplash.com/photo-1592011432621-f7f576f44484?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Z3JpbGxlZCUyMENoaWNrZW58ZW58MHx8MHx8fDA%3D",
+      "short_description": "Tender grilled chicken topped with sweet and tangy mango salsa.",
+      "ingredients": [
+        "4 boneless, skinless chicken breasts",
+        "1 mango, diced",
+        "1/2 red onion, finely chopped",
+        "1 red bell pepper, diced",
+        "1/4 cup chopped cilantro",
+        "Juice of 1 lime"
+      ],
+      "preparing_time": "35 minutes",
+      "calories": "280 calories"
+    },
+    {
+      "recipe_id": 5,
+      "recipe_name": "Italian insalata",
+      "recipe_image": "https://images.unsplash.com/photo-1622637103261-ae624e188bd0?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8aXRhbGlhbiUyMHNhbGFkfGVufDB8fDB8fHww",
+      "short_description": "A classic salad featuring fresh tomatoes, mozzarella, and basil.",
+      "ingredients": [
+        "2 large tomatoes, sliced",
+        "200 g fresh mozzarella, sliced",
+        "1/4 cup fresh basil leaves",
+        "2 tbsp balsamic glaze",
+        "2 tbsp extra virgin olive oil",
+        "Salt and pepper to taste"
+      ],
+      "preparing_time": "15 minutes",
+      "calories": "200 calories"
+    },
+    {
+      "recipe_id": 6,
+      "recipe_name": "Quinoa Peppers",
+      "recipe_image": "https://images.unsplash.com/photo-1505576633757-0ac1084af824?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8UXVpbm9hJTIwU3R1ZmZlZCUyMFBlcHBlcnN8ZW58MHx8MHx8fDA%3D",
+      "short_description": "Colorful bell peppers filled with quinoa, black beans, and spices.",
+      "ingredients": [
+        "4 large bell peppers",
+        "1 cup cooked quinoa",
+        "1 can (400 g) black beans, drained and rinsed",
+        "1 cup corn kernels",
+        "1/2 cup salsa",
+        "1 tsp cumin"
+      ],
+      "preparing_time": "40 minutes",
+      "calories": "290 calories"
+    }
+  ]

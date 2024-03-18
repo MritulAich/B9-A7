@@ -1,9 +1,16 @@
 import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
 import './App.css'
+import Recipes from './components/Recipes'
+
 
 function App() {
+
+  const [cookNum, setCookNum] = useState([]);
+  const handleWannaCook = recipe =>{
+    const newCookNum = [...cookNum, recipe];
+    setCookNum(newCookNum)
+  }
+
 
   return (
     <>
@@ -42,6 +49,12 @@ function App() {
       <div className="text-center mb-12">
         <h1 className='text-4xl font-semibold mt-24 mb-6 text-[#150B2B]'>Our Recipes</h1>
         <p>Dive into a treasure trove of mouthwatering recipes curated by our experts. From quick meals to elaborate <br />feasts, find inspiration for every occasion.</p>
+      </div>
+
+      <div className="flex flex-row">
+        <Recipes
+         handleWannaCook={handleWannaCook}
+         ></Recipes>
       </div>
     </>
   )
