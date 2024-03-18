@@ -26,10 +26,10 @@ const Recipe = ({ recipe, handleWannaCook }) => {
             <hr />
             <div className="flex flex-row gap-5">
                 <div className="flex flex-row gap-1">
-                    <img src="../../public/icons/time.svg" /><p>{preparing_time}</p>
+                    <img src="https://i.ibb.co/PDJF9PW/time.png" /><p>{preparing_time}</p>
                 </div>
                 <div className="flex flex-row gap-1">
-                    <img src="../../public/icons/calories.svg" /><p>{calories}</p>
+                    <img src="https://i.ibb.co/dDNY2DV/calories.png" /><p>{calories}</p>
                 </div>
             </div>
             <button onClick={()=> handleWannaCook(recipe)} className="btn btn-success font-medium rounded-3xl">Want to Cook</button>

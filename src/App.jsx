@@ -33,7 +33,7 @@ function App() {
       </div>
 
       {/* banner */}
-      <div className="hero"><img src="../public/icons/Rectangle 1.png" />
+      <div className="hero"><img src="https://i.ibb.co/jVh44r6/Rectangle.png" />
         <div className="bg-opacity-60"></div>
         <div className="hero-content text-center text-neutral-content">
           <div>
